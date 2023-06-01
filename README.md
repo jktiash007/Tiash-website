@@ -1,2 +1,2 @@
 Tiash_Website
-https://jktiash007.github.io/Tiash-website.github.io/
+https://jktiash007.github.io/Tiash-website/
